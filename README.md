@@ -144,16 +144,6 @@ Three complementary techniques:
 - **FEMNIST**: Federated Extended MNIST with handwritten characters
 - **Shakespeare**: Text dataset for next-character prediction
 
-## 🎯 Experimental Results
-
-ContinuumFL demonstrates significant improvements over baseline methods:
-
-| Method | Accuracy | Communication Reduction | Convergence Speed |
-|--------|----------|------------------------|------------------|
-| FedAvg | XX% | - | ZZ× |
-| FedProx | XX% | Y% | ZZ× |
-| HierFL | XX% | YY% | ZZ× |
-| **ContinuumFL** | **XX%** | **YY%** | **ZZ×** |
 
 ## 🔧 Advanced Configuration
 
@@ -246,14 +236,6 @@ ContinuumFL is designed for research in:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📞 Support
-
-For questions and support:
-- Open an issue on GitHub
 
 ## 🙏 Acknowledgments
 
@@ -264,6 +246,7 @@ For questions and support:
 ---
 
 **ContinuumFL** - Bringing spatial awareness to federated learning in edge environments! 🌐🤖"# ContinuumFL" 
+
 
 
 
